@@ -1,4 +1,5 @@
-#вариант 1 
+#Kirill
+# #вариант 1 
 import random
 
 summ = 0

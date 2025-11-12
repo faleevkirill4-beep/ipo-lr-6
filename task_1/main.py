@@ -1,4 +1,5 @@
-#варант 1
+#Kirill
+# #варант 1
 text_1 = [
 "sdsda",
 "sdda",
