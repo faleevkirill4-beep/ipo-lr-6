@@ -17,7 +17,16 @@ for i,a in enumerate(unique_combinations):
 
 
 s = input("введите число: ")
-print(s)
+
+sum_1 = 0
+count_i = 0
+
+for i in unique_combinations :
+    if(i < s):
+        count_i+=1
+
+print(coount_i)
+
 
  
 
